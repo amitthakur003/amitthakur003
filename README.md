@@ -11,7 +11,7 @@ Dynamic **DevOps Engineer** and **MERN Stack Developer** with comprehensive expe
 - 🔭 **Currently working on**: Advanced CI/CD pipelines and scalable cloud architectures
 - 🌱 **Learning**: Advanced Kubernetes orchestration and microservices architecture
 - 👯 **Looking to collaborate on**: Open-source DevOps tools and Full-stack applications
-- 💬 **Ask me about**: Cloud Infrastructure, MERN Stack, DevOps practices, and Cybersecurity
+- 💬 **Ask me about**: Cloud Infrastructure, QA, Automation testing, MERN Stack, DevOps practices, and Cybersecurity
 - 📫 **Reach me**: [reachthakuramit@gmail.com](mailto:reachthakuramit@gmail.com)
 - ⚡ **Fun fact**: GCP Arcade Champions Tier achiever and ranked 132nd in HP Board exams!
 - 💼 **Portfolio**: https://amithakur.tech/
