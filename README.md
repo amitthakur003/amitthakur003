@@ -14,6 +14,7 @@ Dynamic **DevOps Engineer** and **MERN Stack Developer** with comprehensive expe
 - 💬 **Ask me about**: Cloud Infrastructure, MERN Stack, DevOps practices, and Cybersecurity
 - 📫 **Reach me**: [reachthakuramit@gmail.com](mailto:reachthakuramit@gmail.com)
 - ⚡ **Fun fact**: GCP Arcade Champions Tier achiever and ranked 132nd in HP Board exams!
+- 💼 **Portfolio**: https://amithakur.tech/
 
 ## 🛠️ Tech Arsenal
 
