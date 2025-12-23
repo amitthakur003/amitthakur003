@@ -103,7 +103,7 @@ Dynamic **DevOps Engineer** and **MERN Stack Developer** with comprehensive expe
 ## Education
 
 **Bachelor of Technology** - Computer Science (Cybersecurity Specialization)  
-*Shivalik College of Engineering, Dehradun* | CGPA: 7.2 | 2021-2025
+*Shivalik College of Engineering, Dehradun* | CGPA: 9.2 | 2021-2025
 
 ## GitHub Activity
 
