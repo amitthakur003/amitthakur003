@@ -82,6 +82,7 @@ Dynamic **DevOps Engineer** and **MERN Stack Developer** with comprehensive expe
 🛡️ **Certified Network Security Practitioner** | The SecOps Group  
 🏅 **ShivaTech State Level Winner** | Technical Event  
 
+<!--
 ## 🎯 Featured Projects
 
 ### 🤖 [Zappy AI - Career Coaching SaaS](https://zappy-three.vercel.app)
@@ -104,8 +105,16 @@ Dynamic **DevOps Engineer** and **MERN Stack Developer** with comprehensive expe
 - 📝 **CMS Integration**: Real-time content updates, dynamic blog management
 - ⚡ **Tech Stack**: Webflow, Figma, Advanced CMS
 - 📈 **Impact**: Optimized customer bookings, increased engagement
+-->
 
 ## 💼 Professional Experience
+
+### 💼 **Associate Software Engineer** | *Bebo Technologies* (June 2024 - Present)
+- 🔧 **QA Automation**: Developed and maintained automated test suites using Selenium and Playwright
+- 🎯 **Test Coverage**: Implemented comprehensive testing strategies achieving 85%+ code coverage
+- 🚀 **CI/CD Integration**: Integrated automated tests with Jenkins pipelines for continuous testing
+- 📈 **Quality Assurance**: Reduced bug detection time by 40% through robust automation frameworks
+- 🛠️ **Agile Collaboration**: Worked with cross-functional teams using Jira for sprint planning and tracking
 
 ### 🚀 **Full Stack Developer Intern** | *Rekruters* (April 2025 - Present)
 - 🎓 **Exam Platform**: Architected comprehensive platform with live proctoring
@@ -113,11 +122,10 @@ Dynamic **DevOps Engineer** and **MERN Stack Developer** with comprehensive expe
 - 🛡️ **CTF Platform**: Built competitive cybersecurity platform with 15 Docker challenges
 - 📊 **Real-time Systems**: Implemented dynamic scoring and leaderboards
 
-### ☁️ **AI & Cloud Intern** | *Edunet Foundation* (Feb-Mar 2024)
+### ☁️ **IBM Intern** | *IBM Remote* (Feb-Mar 2024)
 - 🤖 **AI Development**: Built 3 interactive chatbots with advanced NLP
 - 📚 **Training**: Completed 60+ hours of hands-on AI/Cloud training on IBM Skills Build
 - 🧠 **Innovation**: Enhanced chatbot interactivity and accuracy through algorithm optimization
-
 ## 🎓 Education
 
 **🎓 Bachelor of Technology** - Computer Science (Cybersecurity Specialization)  
