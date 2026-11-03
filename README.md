@@ -1,7 +1,7 @@
 # Amit Thakur
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%26+MERN+Developer;Cloud+Infrastructure+Specialist;Cybersecurity+Enthusiast;GCP+Champions+Tier+Achiever" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=%26+MERN+Developer;Cybersecurity+Enthusiast;GCP+Champions+Tier+Achiever" alt="Typing SVG" />
 </div>
 
 ## About Me
@@ -82,20 +82,20 @@ Dynamic **DevOps Engineer** and **MERN Stack Developer** with comprehensive expe
 
 ## Professional Experience
 
-### Associate Software Engineer | *Bebo Technologies* (Sep 2025 - Present)
+### Software Engineer | *Bebo Technologies* (Sep 2024 - Present)
 - Developed and maintained automated test suites using Selenium and Playwright
 - Implemented comprehensive testing strategies achieving 85%+ code coverage
 - Integrated automated tests with Jenkins pipelines for continuous testing
 - Reduced bug detection time by 40% through robust automation frameworks
 - Worked with cross-functional teams using Jira for sprint planning and tracking
 
-### Full Stack Developer Intern | *Rekruters* (April - Sep 2025)
+### Full Stack Developer Intern | *Rekruters* (April - Sep 2024)
 - Architected comprehensive exam platform with live proctoring
 - Built multi-portal system with 7+ question types including A/V responses
 - Developed competitive cybersecurity CTF platform with 15 Docker challenges
 - Implemented dynamic scoring and real-time leaderboards
 
-### IBM Intern | *IBM Remote* (Feb - Mar 2024)
+### IBM Intern | *IBM Remote* (Feb - Mar 2023)
 - Built 3 interactive chatbots with advanced NLP capabilities
 - Completed 60+ hours of hands-on AI/Cloud training on IBM Skills Build
 - Enhanced chatbot interactivity and accuracy through algorithm optimization
