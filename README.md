@@ -1,12 +1,12 @@
 # Amit Thakur
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435+SDET+Engineer;MERN+Developer;Cybersecurity+Enthusiast;GCP+Champions+Tier+Achiever" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=SDET+Engineer;MERN+Developer;Cybersecurity+Enthusiast;GCP+Champions+Tier+Achiever" alt="Typing SVG" />
 </div>
 
 ## About Me
 
-Dynamic **DevOps Engineer** and **MERN Stack Developer** with comprehensive expertise in cloud infrastructure and modern application development. Proficient in CI/CD automation, containerization, and scalable system architecture with a proven track record of cross-functional collaboration.
+Dynamic **SDET Engineer** and **MERN Stack Developer** with comprehensive expertise in cloud infrastructure and modern application and automation development.
 
 - Currently working on advanced CI/CD pipelines and scalable cloud architectures
 - Learning advanced Kubernetes orchestration and microservices architecture
